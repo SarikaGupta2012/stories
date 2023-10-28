@@ -1,0 +1,39 @@
+body{
+    background-image: url("Write-a-Story.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    height: 100%;
+    width: 100vh;
+}
+.Stories-button{
+    height: 30px;
+    width: 200px;
+    position: absolute;
+    top:45%;
+    left:47%;
+}
+.Stories-button-text{
+    padding: 20px;
+    height: 30px;
+    width:200px;
+    background-color: limegreen;
+    border-radius: 25px;
+    text-align: center;
+}
+.Stories-button-link{
+    color: white;
+    text-decoration: none;
+}
+.Stories-list{
+    position: absolute;
+    left: 35%;
+    top:40%;
+    padding: 20px;
+    height: 180px;
+    width: 600px;
+    color:white;
+    background-color: limegreen;
+    border: 5px solid white;
+    text-decoration: none;
+}
